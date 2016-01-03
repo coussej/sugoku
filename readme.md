@@ -1,6 +1,6 @@
 # sugoku
 
-Soduke solver using constaint propagation. Solution for the go challenge at http://golang-challenge.com/go-challenge8/
+Sudoku solver using constaint propagation. Solution for the go challenge at http://golang-challenge.com/go-challenge8/
 
 #### Usage:
 
